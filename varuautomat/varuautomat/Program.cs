@@ -158,7 +158,7 @@ namespace vendingmachine
                     }
                 }
 
-                //Money menu - to:do - implement wallet
+                //Money menu
                 while(menuChoice == 2)
                 {
                     Console.Clear();
