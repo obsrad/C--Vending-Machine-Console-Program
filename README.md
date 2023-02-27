@@ -1,5 +1,5 @@
 # C# Vending machine, made as a console program   
-Made with the objective of using different classes together using Inheritance and Interfaces.   
+Made with the objective of combining different classes together using Inheritance and Interfaces.   
 
 
 ### Video showcasing it in action:  
